@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mirza Shahbaz Ali Baig</h1>
 <h3 align="center">AI Engineer | Full-Stack Developer | Building Scalable AI Agents</h3> 
-![Profile views](https://komarev.com/ghpvc/?username=shahbaz957&label=Profile%20views&color=0e75b6&style=flat)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shahbaz957&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
+</p>
 
 ---
 
