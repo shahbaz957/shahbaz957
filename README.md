@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mirza Shahbaz Ali Baig</h1>
-<h3 align="center">AI Engineer | Full-Stack Developer | Building Scalable AI Agents</h3>
+<h3 align="center">AI Engineer | Full-Stack Developer | Building Scalable AI Agents</h3> 
 
 ---
 
