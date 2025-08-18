@@ -1,9 +1,5 @@
-<h1 align="center">Hi 👋, I'm <span style="color:#FF5733;">Mirza Shahbaz Ali Baig</span></h1>
-<h3 align="center">
-  <img src="https://img.shields.io/badge/AI%20Engineer-8A2BE2?style=for-the-badge&logo=openai&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Software%20Developer-FF4500?style=for-the-badge&logo=github&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Building%20AI%20Agents-1E90FF?style=for-the-badge&logo=meta&logoColor=white"/> 
-</h3>
+<h1 align="center">Hi 👋, I'm Mirza Shahbaz Ali Baig</h1> 
+<h3 align="center">AI Engineer | <span style="color: orangered;">Software Developer</span> | Building Scalable AI Agents</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shahbaz957&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
 </p>
