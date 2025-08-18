@@ -53,16 +53,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahbaz957&layout=compact&theme=radical" alt="languages"/>
 </p>
 
----
 
-### 🐍 Watch my contributions turn into a snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/shahbaz957/shahbaz957/output/snake.svg" alt="Snake animation"/>
-</p>
-
-
----
 
 ### 🌐 Connect with me
 
