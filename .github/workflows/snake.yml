@@ -8,12 +8,17 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write   # THIS LINE IS IMPORTANT
     steps:
-      - uses: Platane/snk@v3
+      - name: Generate snake.svg
+        uses: Platane/snk@v3
         with:
           github_user_name: shahbaz957
           outputs: dist/snake.svg
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
+
+      - name: Push snake.svg to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
