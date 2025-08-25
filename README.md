@@ -36,6 +36,8 @@
 
   <!-- Databases & VectorDBs -->
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/FAISS-005571?style=for-the-badge&logo=databricks&logoColor=white" />
   <img src="https://img.shields.io/badge/Chroma-000000?style=for-the-badge&logo=protocols.io&logoColor=white" />
 
