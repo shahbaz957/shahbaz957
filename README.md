@@ -18,6 +18,7 @@
   <!-- Frameworks & Libraries -->
   <img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/LangChain-121D33?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangSmith-0057B8?style=for-the-badge&logo=langsmith&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
