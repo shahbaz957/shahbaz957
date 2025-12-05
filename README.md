@@ -57,7 +57,16 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahbaz957&layout=compact&theme=radical" alt="languages"/>
 </p>
 
+---
+## Github Contribution Graph
 
+![](./profile-3d-contrib/profile-night-green.svg)
+
+<div align="center">
+  <a href="#"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Maaz-319&theme=tokyo-night&hide_border=true&area=true&border_radius=15"/></a>
+</div>
+
+---
 
 ### 🌐 Connect with me
 
