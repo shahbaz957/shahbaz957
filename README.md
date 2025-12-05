@@ -19,29 +19,29 @@
 ---
 
 ## 🧩 Frameworks & Libraries (Web + Backend + Data)
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,flask,redux,tailwind,bun"/>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,flask,redux,tailwind,bun,npm&perline=5"/>
 </div>
 
 ---
 
 ## 🗄️ Databases & Vector Databases
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase,redis"/>
 </div>
 
 ---
 
 ## 🤖 AI, ML & Agentic Systems
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow"/>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn"/>
 </div>
 
 ---
 
 ## 🛠️ DevOps, Cloud & Developer Tools
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=git,docker,linux,postman,appwrite"/>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,docker,linux,postman,ubuntu"/>
 </div>
 
 ---
