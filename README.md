@@ -9,8 +9,11 @@
 ### 🧰 Tech Stack
 
 ## 🧠 Programming Languages
-
-[![My Skills](https://skillicons.dev/icons?i=python,js,ts,java,c,cpp,)](https://skillicons.dev)
+<div align="center">
+  <a href="#">
+<img src="https://skillicons.dev/icons?i=python,js,ts,java,c,cpp"/>
+    </a>
+</div>
 
 ---
 
