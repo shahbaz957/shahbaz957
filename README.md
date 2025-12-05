@@ -20,14 +20,14 @@
 
 ## 🧩 Frameworks & Libraries (Web + Backend + Data)
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,flask,redux,tailwind,bun,npm&perline=5"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,flask,redux,tailwind,bun,npm,html,css,materialui,&perline=5"/>
 </div>
 
 ---
 
 ## 🗄️ Databases & Vector Databases
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase,redis"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,supabase,redis"/>
 </div>
 
 ---
