@@ -1,12 +1,13 @@
-<h1 align="center">Hi 👋 , I'm Mirza Shahbaz Ali Baig</h1> 
-<h3 align="center">AI Engineer | Software Developer | Building Scalable AI Agents</h3>
+<div align="center">
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00FFAA&center=true&vCenter=true&width=800&lines=👋+Hi+I'm+Mirza+Shahbaz+Ali+Baig;Full Stack AI Engineer+%7C+Software developer+%7C+Building+Scalable+AI+Agents;Welcome+to+my+GitHub+Profile!" alt="Mirza Shahbaz Ali Baig" /></a>
+</div>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shahbaz957&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/> 
 </p>
 
 --- 
 
-### 🧰 Tech Stack
+# 🧰 Tech Stack
 
 ## 🧠 Programming Languages
 <div align="center">
