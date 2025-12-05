@@ -10,13 +10,7 @@
 
 ## 🧠 Programming Languages
 
-<p align="left">
-  <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" height="45"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" height="45"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" height="45"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="45"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" height="45"/>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=python,js,ts,java,c,cpp,)](https://skillicons.dev)
 
 ---
 
