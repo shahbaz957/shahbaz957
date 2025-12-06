@@ -49,12 +49,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shahbaz957&show_icons=true&theme=radical" alt="stats" height="165"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shahbaz957&show_icons=true&theme=tokyonight" alt="stats" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahbaz957&theme=radical" alt="streak" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahbaz957&layout=compact&theme=radical" alt="languages"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shahbaz957&layout=compact&theme=vision-friendly-dark" alt="languages"/>
 </p>
 
 ---
