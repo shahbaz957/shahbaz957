@@ -19,17 +19,22 @@ I'm actively working on
   * Startup-ready **SaaS** Products
   * **Open Source** Contribution
   
-### Core Skill
-  **Full Stack Web Development**
-      * React, Next.js, Node.js, Express, FastAPI, Tailwind
-    **AI & Machine Learning**
-      * TensorFlow, Scikit-Learn, NLP, RAG Systems
-    **Backend & Databases**
-      * MongoDB, MySQL, PostgreSQL, Redis, Supabase
-     **DevOps & Tooling**
-      * Git, Docker, Linux, Postman, CI/CD
-     **LLM and Agentic AI**
-      * LangChain, LangGraph, OpenAI, Ollama, FAISS, Chroma DB
+### Core Skills
+
+**Full Stack Web Development**
+- React, Next.js, Node.js, Express, FastAPI, Tailwind
+
+**AI & Machine Learning**
+- TensorFlow, Scikit-Learn, NLP, RAG Systems
+
+**Backend & Databases**
+- MongoDB, MySQL, PostgreSQL, Redis, Supabase
+
+**DevOps & Tooling**
+- Git, Docker, Linux, Postman, CI/CD
+
+**LLM & Agentic AI**
+- LangChain, LangGraph, OpenAI, Ollama, FAISS, Chroma DB
 </div>
 </div>
 
