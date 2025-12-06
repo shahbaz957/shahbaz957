@@ -38,9 +38,9 @@ I'm actively working on
 </div>
 </div>
 
-# 🧰 Tech Stack
+# - Tech Stack
 
-## 🧠 Programming Languages
+## - Programming Languages
 <div align="center">
   <a href="#">
     <img src="https://skillicons.dev/icons?i=python,js,ts,java,c,cpp"/>
@@ -49,35 +49,35 @@ I'm actively working on
 
 ---
 
-## 🧩 Frameworks & Libraries (Web + Backend + Data)
+## - Frameworks & Libraries (Web + Backend + Data)
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,flask,redux,tailwind,bun,npm,html,css,materialui,&perline=5"/>
 </div>
 
 ---
 
-## 🗄️ Databases & Vector Databases
+## - Databases & Storage
 <div align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,supabase,redis"/>
 </div>
 
 ---
 
-## 🤖 AI, ML & Agentic Systems
+## - AI, ML & Agentic Systems
 <div align="center">
   <img src="https://skillicons.dev/icons?i=tensorflow,sklearn"/>
 </div>
 
 ---
 
-## 🛠️ DevOps, Cloud & Developer Tools
+## - DevOps, Cloud & Developer Tools
 <div align="center">
   <img src="https://skillicons.dev/icons?i=git,docker,linux,postman,ubuntu"/>
 </div>
 
 ---
 
-### 📊 GitHub Stats
+### - GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shahbaz957&show_icons=true&theme=tokyonight" alt="stats" height="165"/>
