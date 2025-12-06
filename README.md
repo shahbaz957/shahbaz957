@@ -6,6 +6,32 @@
 </p>
 
 --- 
+<div align="center" style="max-width: 800px; padding: 0 20px; text-align: left;">
+  
+<div align="left">
+  
+## About Me:
+I’m a Full Stack AI Engineer & Software Developer with a strong passion for building scalable web applications, intelligent AI systems, and real-world automation tools. My core strength lies in combining modern frontend, robust backend systems, and Agentic AI workflows to deliver production-ready solutions.
+I'm actively working on 
+  * Full-stack **Web Applications**
+  * **AI Agents** & **RAG** Systems
+  * **Machine Learning** & **Deep Learning** Projects
+  * Startup-ready **SaaS** Products
+  * **Open Source** Contribution
+  
+### Core Skill
+  **Full Stack Web Development**
+      * React, Next.js, Node.js, Express, FastAPI, Tailwind
+    **AI & Machine Learning**
+      * TensorFlow, Scikit-Learn, NLP, RAG Systems
+    **Backend & Databases**
+      * MongoDB, MySQL, PostgreSQL, Redis, Supabase
+     **DevOps & Tooling**
+      * Git, Docker, Linux, Postman, CI/CD
+     **LLM and Agentic AI**
+      * LangChain, LangGraph, OpenAI, Ollama, FAISS, Chroma DB
+</div>
+</div>
 
 # 🧰 Tech Stack
 
