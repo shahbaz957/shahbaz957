@@ -109,5 +109,9 @@ I'm actively working on
   <a href="mailto:mirzashahbazbaig724@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="55"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/shahbaz957/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=leetcode" height="55"/>
+  </a>
 </p>
 
