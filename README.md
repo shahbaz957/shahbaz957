@@ -99,13 +99,15 @@ I'm actively working on
 
 ---
 
-### 🌐 Connect with me
+## Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mirza-shahbaz-ali-baig-3391b3248" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:mirzashahbazbaig724@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=gmail" height="55"/>
   </a>
 </p>
+
