@@ -58,7 +58,7 @@ I'm actively working on
 
 ## - Databases & Storage
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,supabase,redis"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,supabase,redis,prisma"/>
 </div>
 
 ---
