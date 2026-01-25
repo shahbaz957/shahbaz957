@@ -28,10 +28,10 @@ I'm actively working on
 - TensorFlow, Scikit-Learn, NLP, RAG Systems
 
 **Backend & Databases**
-- MongoDB, MySQL, PostgreSQL, Redis, NeonDB
+- MongoDB, MySQL, PostgreSQL, Redis, NeonDB, Inngest
 
 **DevOps & Tooling**
-- Git, Linux, Postman
+- Git, Linux, Postman, Docker
 
 **LLM & Agentic AI**
 - LangChain, LangGraph, OpenAI, Ollama, FAISS, Chroma DB
