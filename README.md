@@ -1,4 +1,4 @@
-<div align="center">    
+<div align="center">        
   <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=👋+Hi,+I'm+Mirza+Shahbaz+Ali+Baig;Full+Stack+AI+Engineer+%7C+Software+developer;Welcome+to+my+GitHub+Profile!" alt="Mirza Shahbaz Ali Baig" /></a>  
 </div> 
 <p align="center">
