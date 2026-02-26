@@ -28,7 +28,7 @@ I'm actively working on
 - TensorFlow, Scikit-Learn, NLP, RAG Systems
 
 **Backend & Databases**
-- MongoDB, MySQL, PostgreSQL, Redis, NeonDB, Inngest
+- MongoDB, MySQL, PostgreSQL, Redis, NeonDB, Inngest, SupaBase
 
 **DevOps & Tooling**
 - Git, Linux, Postman, Docker
