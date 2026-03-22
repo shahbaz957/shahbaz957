@@ -22,7 +22,7 @@ I'm actively working on
 ### Core Skills
 
 **Full Stack Web Development**
-- React, Next.js, Node.js, Express, FastAPI, Tailwind
+- React, Next.js, Node.js, Nest.js, Express, FastAPI, Tailwind
 
 **AI & Machine Learning**
 - TensorFlow, Scikit-Learn, NLP, RAG Systems
@@ -34,7 +34,7 @@ I'm actively working on
 - Git, Linux, Postman, Docker
 
 **LLM & Agentic AI**
-- LangChain, LangGraph, OpenAI, Ollama, FAISS, Chroma DB
+- LangChain, LangGraph, AI SDK, OpenAI, Ollama, FAISS, Chroma DB
 </div>
 </div>
 
