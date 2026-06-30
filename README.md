@@ -31,7 +31,7 @@ I'm actively working on
 - MongoDB, MySQL, PostgreSQL, Redis, NeonDB, Inngest, SupaBase
 
 **DevOps & Tooling**
-- Git, Linux, Postman, Docker
+- Git, Linux, Postman, Docker, AWS (EC2, ECS e.t.c.)
 
 **LLM & Agentic AI**
 - LangChain, LangGraph, AI SDK, OpenAI, Ollama, FAISS, Chroma DB
@@ -72,7 +72,7 @@ I'm actively working on
 
 ## - DevOps, Cloud & Developer Tools
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,docker,linux,postman,ubuntu"/>
+  <img src="https://skillicons.dev/icons?i=git,docker,linux,postman,ubuntu,aws"/>
 </div>
 
 ---
