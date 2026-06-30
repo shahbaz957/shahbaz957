@@ -4,6 +4,11 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shahbaz957&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>  
 </p>
+<p align="center">
+  <a href="https://www.shahbazbaig.xyz" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-0A66C2?style=for-the-badge" alt="Portfolio"/>
+  </a>
+</p>
 
 --- 
 <div align="center" style="max-width: 800px; padding: 0 20px; text-align: left;">
