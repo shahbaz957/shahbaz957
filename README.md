@@ -26,7 +26,7 @@ I'm actively working on
   
 ### Core Skills
 
-**Full Stack Web Development**
+**Full Stack Web/App Development**
 - React, React Native, Next.js, Node.js, Nest.js, Express, FastAPI, Tailwind
 
 **AI & Machine Learning**
@@ -57,9 +57,6 @@ I'm actively working on
 ## - Frameworks & Libraries (Web/App + Backend + Data)
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,flask,redux,tailwind,bun,npm,html,css,materialui,&perline=5"/>
-  <p align="center">
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-</p>
 </div>
 
 ---
