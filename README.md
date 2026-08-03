@@ -1,122 +1,140 @@
-<div align="center">        
-  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=👋+Hi,+I'm+Mirza+Shahbaz+Ali+Baig;Full+Stack+AI+Engineer+%7C+Software+developer;Welcome+to+my+GitHub+Profile!" alt="Mirza Shahbaz Ali Baig" /></a>  
-</div> 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shahbaz957&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>  
-</p>
-<p align="center">
-  <a href="https://www.shahbazbaig.xyz" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-0A66C2?style=for-the-badge" alt="Portfolio"/>
-  </a>
-</p>
-
---- 
-<div align="center" style="max-width: 800px; padding: 0 20px; text-align: left;">
-  
-<div align="left">
-  
-## About Me:
-I’m a Full Stack AI Engineer & Software Developer with a strong passion for building scalable web applications, intelligent AI systems, and real-world automation tools. My core strength lies in combining modern frontend, robust backend systems, and Agentic AI workflows to deliver production-ready solutions.
-I'm actively working on 
-  * Full-stack **Web Applications**
-  * **AI Agents** & **RAG** Systems
-  * **Machine Learning** & **Deep Learning** Projects
-  * Startup-ready **SaaS** Products
-  * **Open Source** Contribution
-  
-### Core Skills
-
-**Full Stack Web/App Development**
-- React, React Native, Next.js, Node.js, Nest.js, Express, FastAPI, Tailwind
-
-**AI & Machine Learning**
-- TensorFlow, Scikit-Learn, NLP, RAG Systems
-
-**Backend & Databases**
-- MongoDB, MySQL, PostgreSQL, Redis, NeonDB, Inngest, SupaBase
-
-**DevOps & Tooling**
-- Git, Linux, Postman, Docker, AWS (EC2, ECS e.t.c.), Nginx
-
-**LLM & Agentic AI**
-- LangChain, LangGraph, AI SDK, OpenAI, Ollama, FAISS, Chroma DB
-</div>
-</div>
-
-# - Tech Stack
-
-## - Programming Languages
 <div align="center">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=python,js,ts,java,c,cpp"/>
-  </a>
+
+# Mirza Shahbaz Ali Baig
+
+**Full Stack AI Engineer** · Building production systems at the intersection of software engineering, Agentic AI, and scalable backends
+
+[Portfolio](https://www.shahbazbaig.xyz) · [LinkedIn](https://www.linkedin.com/in/mirza-shahbaz-ali-baig-3391b3248) · [Email](mailto:mirzashahbazbaig724@gmail.com) · [LeetCode](https://leetcode.com/u/shahbaz957/)
+
+<img src="https://komarev.com/ghpvc/?username=shahbaz957&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
+
 </div>
 
 ---
 
-## - Frameworks & Libraries (Web/App + Backend + Data)
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,flask,redux,tailwind,bun,npm,html,css,materialui,&perline=5"/>
-</div>
+## About
+
+I design and ship **end-to-end software systems** — from product UI to APIs, data layers, and intelligent AI workflows. My work sits where **full-stack engineering**, **Agentic AI / RAG systems**, and **system design** meet: reliable services, clear architecture, and features that hold up beyond a demo.
+
+I care about how systems behave under load, how agents fail gracefully, how retrieval stays fresh and grounded, and how products go from idea → production.
+
+**Currently focused on**
+- Production **RAG** & **multi-agent** architectures
+- **System design** for scalable, fault-tolerant services
+- Full-stack AI products with **Next.js** + robust Python/Node backends
+- Enterprise patterns around LLM reliability, safety, and observability
 
 ---
 
-## - Databases & Storage
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,supabase,redis,prisma"/>
-</div>
+## What I Build
+
+| Area | Focus |
+|------|--------|
+| **Agentic AI** | Multi-step agents, tool use, orchestration, memory, evaluation loops |
+| **Advanced RAG** | Ingestion pipelines, retrieval quality, reranking, grounding, enterprise AI tooling |
+| **Full-Stack Products** | Next.js / React apps, APIs, auth, SaaS-style features, React Native |
+| **Backend & Data** | Service design, databases, caching, queues, event-driven flows |
+| **Systems Thinking** | Scalability, reliability, latency, deployment, observability |
 
 ---
 
-## - AI, ML & Agentic Systems
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn"/>
-</div>
+## Technical Stack
+
+Grouped by how I actually use them in systems — not a laundry list of every library.
+
+### Languages
+`Python` · `TypeScript` · `JavaScript` · `SQL` · `C / C++` · `Java`
+
+### Frontend & Apps
+`Next.js` · `React` · `React Native` · `Tailwind CSS` · `TypeScript`
+
+### Backend & APIs
+`FastAPI` · `Node.js` · `NestJS` · `Express`
+
+### Data & Storage
+`PostgreSQL` · `MySQL` · `MongoDB` · `Redis` · `Supabase` / `Neon`
+
+### AI Systems
+`LangChain` · `LangGraph` · `OpenAI` · `Ollama` · Vector search (`Qdrant` · `Chroma` · `FAISS`)  
+Enterprise-minded tooling across **LLM gateways**, **safety / guardrails**, and **observability** for production AI
+
+### Infrastructure & Delivery
+`Docker` · `AWS` (EC2, ECS, …) · `Nginx` · `Git` · `Linux` · CI-friendly workflows
 
 ---
 
-## - DevOps, Cloud & Developer Tools
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git,docker,linux,postman,ubuntu,aws,nginx"/>
-</div>
+## Engineering Principles
+
+- **Ship systems, not notebooks** — APIs, UIs, infra, and failure modes included  
+- **Retrieval & agents must be measurable** — latency, grounding, and evals over vibes  
+- **Design for scale early** — caching, queues, isolation, and clear service boundaries  
+- **Prefer boring reliability** — idempotency, retries, observability, and safe defaults  
 
 ---
 
-### - GitHub Stats
+## Featured Work
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shahbaz957&show_icons=true&theme=tokyonight" alt="stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahbaz957&theme=radical" alt="streak" height="165"/>
-</p>
+> Replace the placeholders below with your best 3–4 public repos (and pin them on GitHub). One strong line + stack beats a long description.
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shahbaz957&layout=compact&theme=vision-friendly-dark" alt="languages"/>
-</p>
+### 1. Production / Advanced RAG
+**What:** End-to-end RAG with ingestion, retrieval quality, and production-minded AI controls  
+**Stack:** FastAPI · Vector DB · LangGraph/LangChain · Next.js  
+**Repo:** `<!-- link -->`
+
+### 2. Agentic AI System
+**What:** Multi-agent / tool-using workflows with memory and structured outputs  
+**Stack:** LangGraph · OpenAI/Ollama · Python · API layer  
+**Repo:** `<!-- link -->`
+
+### 3. Full-Stack AI Product
+**What:** Product-facing app with auth, backend services, and an intelligent feature layer  
+**Stack:** Next.js · FastAPI/Nest · PostgreSQL · Docker  
+**Repo:** `<!-- link -->`
+
+### 4. Streaming / Event-Driven RAG *(optional)*
+**What:** Continuous document ingest with low document-to-search latency  
+**Stack:** Kafka · Embeddings · Qdrant · FastAPI · Next.js  
+**Repo:** `<!-- link -->`
 
 ---
-## Github Contribution Graph
 
-![](./profile-3d-contrib/profile-night-green.svg)
-
-<div align="center">
-  <a href="#"><img src="https://github-readme-activity-graph.vercel.app/graph?username=shahbaz957&theme=tokyo-night&hide_border=true&area=true&border_radius=15"/></a>
-</div>
-
----
-
-## Connect With Me
+## GitHub Snapshot
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mirza-shahbaz-ali-baig-3391b3248" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:mirzashahbazbaig724@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="55"/>
-  </a>
-   &nbsp;&nbsp;&nbsp;
-  <a href="https://leetcode.com/u/shahbaz957/" target="_blank">
-    <img src="https://user-images.githubusercontent.com/63964149/152531278-5e01909d-0c2e-412a-8acc-4a06863c244d.png" height="55"/>
-  </a>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shahbaz957&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=shahbaz957&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahbaz957&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahbaz957&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity" />
+</p>
+
+---
+
+## Currently Learning / Deepening
+
+- Advanced **Agentic AI** architectures & Forward Deployed / AI engineering craft  
+- **System design** for distributed systems (scalability, reliability, data flow)  
+- Production **LLMOps** — evaluation, gateways, safety, and operational excellence  
+
+---
+
+## Let’s Connect
+
+Open to conversations around **AI engineering roles**, **full-stack AI products**, collaboration, and interesting systems problems.
+
+<p align="center">
+  <a href="https://www.shahbazbaig.xyz"><img src="https://img.shields.io/badge/Portfolio-shahbazbaig.xyz-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/mirza-shahbaz-ali-baig-3391b3248"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:mirzashahbazbaig724@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
+
+<div align="center">
+
+*Building software that thinks carefully — and ships cleanly.*
+
+</div>
