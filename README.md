@@ -1,6 +1,5 @@
 <!--
-  Mirza Shahbaz Ali Baig — Profile README (Curated · Engineering · Creative)
-  File: github_profile_README_v3.md
+  Mirza Shahbaz Ali Baig — Profile README v3 (terminal / engineering)
   Paste into: shahbaz957/shahbaz957/README.md
 -->
 
@@ -12,7 +11,7 @@
 
 ![Agentic AI](https://img.shields.io/badge/Agentic_AI_Engineer-7C3AED?style=for-the-badge&logo=openai&logoColor=white)
 ![FDE](https://img.shields.io/badge/Forward_Deployed_Engineer-0EA5E9?style=for-the-badge&logo=databricks&logoColor=white)
-![Full Stack](https://img.shields.io/badge/Full_Stack_Engineer-111827?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Full Stack](https://img.shields.io/badge/Full_Stack_Engineer-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 
 <br/>
 
@@ -31,29 +30,42 @@
 ```bash
 $ whoami
 Mirza Shahbaz Ali Baig
-→ Agentic AI Engineer × Forward Deployed Engineer × Full Stack Software Engineer
-→ Production systems · scalable apps · cloud delivery (AWS / VMs / CI·CD)
+
+$ roles --list
+[0] Agentic AI Engineer
+[1] Forward Deployed Engineer
+[2] Full Stack Software Engineer
+
+$ stack --focus
+production systems | scalable apps | cloud delivery
+aws · vms · docker · ci/cd · nestjs · next.js · agents · rag
+
+$ cat ./ethos.txt
+build production-grade software where agents, retrieval,
+and real products meet — then deploy, operate, and harden them.
+# less demo theater. more systems that ship.
 ```
 
 </div>
 
-I build **production-grade software** where agents, retrieval, and real products meet — then **deploy, operate, and harden** them.  
-Less demo theater. More systems that ship.
+---
+
+## `./focus`
+
+```text
+┌────────────────────┬──────────────────────────────────────────────────────┐
+│ domain             │ work                                                 │
+├────────────────────┼──────────────────────────────────────────────────────┤
+│ agentic_ai         │ multi-agent · tools · graph orch · memory · evals    │
+│ engineering_craft  │ context eng · loop eng · agentic coding              │
+│ forward_deployed   │ ambiguity → architecture → delivery → ownership      │
+│ full_stack_cloud   │ next/react/rn · apis · nest · aws · docker · ci/cd   │
+└────────────────────┴──────────────────────────────────────────────────────┘
+```
 
 ---
 
-## ▸ Focus
-
-| | |
-|:--|:--|
-| **Agentic AI** | Multi-agent systems · tool use · graph orchestration · memory · evals |
-| **Engineering Craft** | Context engineering · loop engineering · agentic coding workflows |
-| **Forward Deployed** | Ambiguous problems → architecture → delivery → production ownership |
-| **Full Stack + Cloud** | Next.js / React / React Native · APIs · AWS · Docker · CI/CD pipelines |
-
----
-
-## ▸ How I Work
+## `./craft`
 
 <div align="center">
 
@@ -64,21 +76,20 @@ Less demo theater. More systems that ship.
 
 </div>
 
-<br/>
-
-```text
- context  →  right signal in, noise out
- graph    →  controllable agent / workflow topology
- loop     →  build → evaluate → repair → ship
- coding   →  agents as force multipliers, humans as architects
+```bash
+$ engineer --mode agentic
+context  =>  right signal in · noise out
+graph    =>  controllable agent / workflow topology
+loop     =>  build → evaluate → repair → ship
+coding   =>  agents amplify · humans architect
 ```
 
 ---
 
-## ▸ Stack
+## `./stack`
 
 <details open>
-<summary><b>Intelligence</b></summary>
+<summary><code>intelligence/</code></summary>
 <br/>
 <p align="center">
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
@@ -101,12 +112,14 @@ Less demo theater. More systems that ship.
 </details>
 
 <details open>
-<summary><b>Product & Backend</b></summary>
+<summary><code>product_backend/</code></summary>
 <br/>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,ts,js,nextjs,react,nodejs,nestjs,express,fastapi" />
 </p>
 <p align="center">
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
@@ -114,7 +127,7 @@ Less demo theater. More systems that ship.
 </details>
 
 <details open>
-<summary><b>Data</b></summary>
+<summary><code>data/</code></summary>
 <br/>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,supabase,prisma" />
@@ -122,7 +135,7 @@ Less demo theater. More systems that ship.
 </details>
 
 <details open>
-<summary><b>Cloud · Delivery · Ops</b></summary>
+<summary><code>cloud_ops/</code></summary>
 <br/>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,aws,linux,nginx,git,githubactions" />
@@ -137,37 +150,43 @@ Less demo theater. More systems that ship.
 
 ---
 
-## ▸ What I Ship
+## `./ship`
 
-<p align="center">
-  <img src="https://img.shields.io/badge/01-Agentic_Systems-7C3AED?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/02-Production_RAG-0EA5E9?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/03-Scalable_Apps-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/04-Cloud_Delivery-FF9900?style=for-the-badge" />
-</p>
+```bash
+$ ls ./systems
+01_agentic_systems/     # graphs · tools · memory · recovery
+02_production_rag/      # ingest → retrieve → ground → control
+03_scalable_apps/       # next · nest · apis · databases
+04_cloud_delivery/      # docker · aws · vms · nginx · ci/cd
+```
 
-| Build | Signal |
-|:------|:-------|
-| **Agentic systems** | Graphs, tools, memory, recovery — agents that *act*, not only chat |
-| **Advanced RAG** | Ingest → retrieve → ground → control (gateways, rails, o11y) |
-| **Full-stack products** | Next.js / React surfaces on solid APIs & databases |
-| **Production delivery** | Docker · AWS · VMs · Nginx · CI/CD — from laptop to live |
+| path | signal |
+|:-----|:-------|
+| `agentic_systems` | agents that **act** — not chat wrappers |
+| `production_rag` | grounded retrieval + gateways / rails / o11y |
+| `scalable_apps` | product UI on solid Nest/FastAPI backends |
+| `cloud_delivery` | laptop → container → AWS → live |
 
-> Pin your strongest 3–4 repos. One clear problem + architecture + run path beats a long story.
+```bash
+# tip: pin 3–4 strongest repos
+# one problem + architecture + run path > long story
+```
 
 ---
 
-## ▸ Pulse
+## `./pulse`
 
-<!-- Official github-readme-stats.vercel.app often returns 503 (rate limit / downtime). Use a working mirror. -->
 <div align="center">
   <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=shahbaz957&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="stats" />
   <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shahbaz957&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="langs" />
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=shahbaz957&theme=tokyonight&hide_border=true" alt="streak" />
-</div>
+<!-- Markdown image form works more reliably with GitHub Camo than raw <img> for streak -->
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=shahbaz957&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  </a>
+</p>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahbaz957&theme=tokyo-night&hide_border=true&area=true&height=250&custom_title=Activity" alt="activity" />
@@ -177,9 +196,9 @@ Less demo theater. More systems that ship.
 
 <div align="center">
 
-### Open to remote · US & Europe
-
-Building agents. Shipping systems. Owning delivery.
+```bash
+$ echo "building agents · shipping systems · owning delivery"
+```
 
 <br/>
 
