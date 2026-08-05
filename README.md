@@ -117,13 +117,6 @@ coding   =>  agents amplify · humans architect
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,ts,js,nextjs,react,nodejs,nestjs,express,fastapi" />
 </p>
-<p align="center">
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-</p>
 </details>
 
 <details open>
@@ -166,11 +159,6 @@ $ ls ./systems
 | `production_rag` | grounded retrieval + gateways / rails / o11y |
 | `scalable_apps` | product UI on solid Nest/FastAPI backends |
 | `cloud_delivery` | laptop → container → AWS → live |
-
-```bash
-# tip: pin 3–4 strongest repos
-# one problem + architecture + run path > long story
-```
 
 ---
 
