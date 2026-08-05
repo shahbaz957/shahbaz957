@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=Mirza+Shahbaz+Ali+Baig;Agentic+AI+%C2%B7+Forward+Deployed+%C2%B7+Full+Stack;Remote-ready+-+US+%26+Europe" alt="typing" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=Mirza+Shahbaz+Ali+Baig;Agentic+AI+%C2%B7+Forward+Deployed+%C2%B7+Full+Stack" alt="typing" />
 
 <br/>
 
@@ -33,7 +33,6 @@ $ whoami
 Mirza Shahbaz Ali Baig
 → Agentic AI Engineer × Forward Deployed Engineer × Full Stack Software Engineer
 → Production systems · scalable apps · cloud delivery (AWS / VMs / CI·CD)
-→ Open to remote roles · United States & Europe
 ```
 
 </div>
@@ -160,13 +159,14 @@ Less demo theater. More systems that ship.
 
 ## ▸ Pulse
 
+<!-- Official github-readme-stats.vercel.app often returns 503 (rate limit / downtime). Use a working mirror. -->
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=shahbaz957&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahbaz957&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="langs" />
+  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=shahbaz957&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="stats" />
+  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shahbaz957&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="langs" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahbaz957&theme=tokyonight&hide_border=true" alt="streak" />
+  <img src="https://streak-stats.demolab.com/?user=shahbaz957&theme=tokyonight&hide_border=true" alt="streak" />
 </div>
 
 <div align="center">
