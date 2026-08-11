@@ -165,8 +165,13 @@ $ ls ./systems
 ## `./pulse`
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=shahbaz957&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="stats" />
-  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shahbaz957&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="langs" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shahbaz957&theme=tokyonight" height="200" alt="stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shahbaz957&theme=tokyonight" height="200" alt="langs" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shahbaz957&theme=tokyonight&utcOffset=5" height="200" alt="productive-time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shahbaz957&theme=tokyonight" height="200" alt="profile-details" />
 </div>
 
 <!-- Markdown image form works more reliably with GitHub Camo than raw <img> for streak -->
