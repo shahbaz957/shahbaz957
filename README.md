@@ -1,17 +1,18 @@
 <!--
-  Mirza Shahbaz Ali Baig — Profile README v3 (terminal / engineering)
+  Mirza Shahbaz Ali Baig — GitHub Profile README
   Paste into: shahbaz957/shahbaz957/README.md
 -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=Mirza+Shahbaz+Ali+Baig;Agentic+AI+%C2%B7+Forward+Deployed+%C2%B7+Full+Stack" alt="typing" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=920&lines=Mirza+Shahbaz+Ali+Baig;Product+Engineer+%C2%B7+Full%2DStack+%2B+Agentic+AI;Systems+that+Ship" alt="typing" />
 
 <br/>
 
-![Agentic AI](https://img.shields.io/badge/Agentic_AI_Engineer-7C3AED?style=for-the-badge&logo=openai&logoColor=white)
-![FDE](https://img.shields.io/badge/Forward_Deployed_Engineer-0EA5E9?style=for-the-badge&logo=databricks&logoColor=white)
-![Full Stack](https://img.shields.io/badge/Full_Stack_Engineer-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Product Engineer](https://img.shields.io/badge/Product_Engineer-059669?style=for-the-badge&logo=target&logoColor=white)
+![Full Stack](https://img.shields.io/badge/Full_Stack-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-7C3AED?style=for-the-badge&logo=openai&logoColor=white)
+![Scalable Systems](https://img.shields.io/badge/Scalable_Systems-0EA5E9?style=for-the-badge&logo=apachekafka&logoColor=white)
 
 <br/>
 
@@ -31,19 +32,22 @@
 $ whoami
 Mirza Shahbaz Ali Baig
 
-$ roles --list
-[0] Agentic AI Engineer
-[1] Forward Deployed Engineer
-[2] Full Stack Software Engineer
+$ role --primary
+Product Engineer
 
-$ stack --focus
-production systems | scalable apps | cloud delivery
-aws · vms · docker · ci/cd · nestjs · next.js · agents · rag
+$ role --secondary
+Full-Stack Engineer · Agentic AI Systems
+
+$ focus
+problem → architecture → product → production
+ownership · isolation · queues · webhooks · multi-tenant
 
 $ cat ./ethos.txt
-build production-grade software where agents, retrieval,
-and real products meet — then deploy, operate, and harden them.
-# less demo theater. more systems that ship.
+Own the loop end-to-end: hear the real problem, design around
+the constraint, ship the smallest slice that stops the pain,
+then operate it. Agents and RAG are capabilities inside products —
+not demos without a workflow.
+# less theater. more systems that ship.
 ```
 
 </div>
@@ -56,10 +60,10 @@ and real products meet — then deploy, operate, and harden them.
 ┌────────────────────┬──────────────────────────────────────────────────────┐
 │ domain             │ work                                                 │
 ├────────────────────┼──────────────────────────────────────────────────────┤
-│ agentic_ai         │ multi-agent · tools · graph orch · memory · evals    │
-│ engineering_craft  │ context eng · loop eng · agentic coding              │
-│ forward_deployed   │ ambiguity → architecture → delivery → ownership      │
-│ full_stack_cloud   │ next/react/rn · apis · nest · aws · docker · ci/cd   │
+│ product            │ end-to-end ownership · UI/UX · marketing sites       │
+│ full_stack         │ NestJS · Next.js · multi-tenant · payments · CRM     │
+│ scalable_systems   │ queues · isolation · real-time · webhooks · design   │
+│ agentic_ai         │ LangGraph · RAG · tools · memory · evals             │
 └────────────────────┴──────────────────────────────────────────────────────┘
 ```
 
@@ -69,75 +73,70 @@ and real products meet — then deploy, operate, and harden them.
 
 <div align="center">
 
-![Context Engineering](https://img.shields.io/badge/Context_Engineering-58A6FF?style=for-the-badge)
-![Graph Engineering](https://img.shields.io/badge/Graph_Engineering-7C3AED?style=for-the-badge)
-![Loop Engineering](https://img.shields.io/badge/Loop_Engineering-0EA5E9?style=for-the-badge)
-![Agentic Coding](https://img.shields.io/badge/Agentic_Coding-111827?style=for-the-badge)
+![Product Thinking](https://img.shields.io/badge/Product_Thinking-059669?style=for-the-badge)
+![System Design](https://img.shields.io/badge/System_Design-0EA5E9?style=for-the-badge)
+![Production Delivery](https://img.shields.io/badge/Production_Delivery-E0234E?style=for-the-badge)
+![Agentic Systems](https://img.shields.io/badge/Agentic_Systems-7C3AED?style=for-the-badge)
 
 </div>
 
 ```bash
-$ engineer --mode agentic
-context  =>  right signal in · noise out
-graph    =>  controllable agent / workflow topology
-loop     =>  build → evaluate → repair → ship
-coding   =>  agents amplify · humans architect
+$ engineer --pipeline
+discover  =>  constraint-first architecture · tradeoffs on paper
+design    =>  domain model · unhappy paths · idempotency · tenancy
+deliver   =>  vertical slice · observability · cost-aware infra
+agents    =>  tools · memory · evals · human-in-the-loop when it matters
+# product thinking first. agents only where they earn trust.
 ```
 
 ---
 
 ## `./stack`
 
-<details open>
+<details>
+<summary><code>product_backend/</code></summary>
+<br/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,nextjs,react,nodejs,nestjs,express,prisma,tailwind" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_%26_Webhooks-334155?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Multi--Tenant-059669?style=for-the-badge" />
+</p>
+</details>
+
+<details>
+<summary><code>data_&_infra/</code></summary>
+<br/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,redis,docker,aws,linux,nginx,git,githubactions" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
+</p>
+</details>
+
+<details>
 <summary><code>intelligence/</code></summary>
 <br/>
 <p align="center">
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ollama-111111?style=for-the-badge&logo=ollama&logoColor=white" />
   <img src="https://img.shields.io/badge/RAG-0EA5E9?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Agents-7C3AED?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Gateways-334155?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Guardrails-DC2626?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Observability-059669?style=for-the-badge" />
-</p>
-<p align="center">
   <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white" />
-  <img src="https://img.shields.io/badge/Chroma-FF6B35?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/FAISS-0284C7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Evals-059669?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/AI_SDK-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
-</p>
-</details>
-
-<details open>
-<summary><code>product_backend/</code></summary>
-<br/>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,js,nextjs,react,nodejs,nestjs,express,fastapi" />
-</p>
-</details>
-
-<details open>
-<summary><code>data/</code></summary>
-<br/>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,supabase,prisma" />
-</p>
-</details>
-
-<details open>
-<summary><code>cloud_ops/</code></summary>
-<br/>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,aws,linux,nginx,git,githubactions" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-EC2_%7C_ECS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/VMs_%26_Deployments-232F3E?style=for-the-badge&logo=amazonec2&logoColor=white" />
-  <img src="https://img.shields.io/badge/CI%2FCD_Pipelines-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 </details>
 
@@ -147,18 +146,22 @@ coding   =>  agents amplify · humans architect
 
 ```bash
 $ ls ./systems
-01_agentic_systems/     # graphs · tools · memory · recovery
-02_production_rag/      # ingest → retrieve → ground → control
-03_scalable_apps/       # next · nest · apis · databases
-04_cloud_delivery/      # docker · aws · vms · nginx · ci/cd
+01_product_platforms/   # ownership · UX · tenancy · payments · CRM
+02_scalable_backends/   # nest · queues · webhooks · real-time · design
+03_agentic_products/    # langgraph · rag · tools · memory · evals
+04_production_ops/      # docker · aws · observability · delivery
 ```
 
 | path | signal |
 |:-----|:-------|
-| `agentic_systems` | agents that **act** — not chat wrappers |
-| `production_rag` | grounded retrieval + gateways / rails / o11y |
-| `scalable_apps` | product UI on solid Nest/FastAPI backends |
-| `cloud_delivery` | laptop → container → AWS → live |
+| `product_platforms` | **owns the workflow** — not just the API layer |
+| `scalable_backends` | isolation · async · idempotency · architecture that survives load |
+| `agentic_products` | agents with harness, evals, and a human gate when stakes are high |
+| `production_ops` | shipped, monitored, cost-aware — laptop → prod |
+
+```bash
+# pin 3–4 repos: problem → constraint → architecture → run path
+```
 
 ---
 
@@ -170,16 +173,9 @@ $ ls ./systems
 </div>
 
 <div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahbaz957&theme=tokyonight&hide_border=true&ring_color=58A6FF" height="200" alt="streak" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shahbaz957&theme=tokyonight&utcOffset=5" height="200" alt="productive-time" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shahbaz957&theme=tokyonight" height="200" alt="profile-details" />
 </div>
-
-<!-- Markdown image form works more reliably with GitHub Camo than raw <img> for streak -->
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=shahbaz957&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-  </a>
-</p>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahbaz957&theme=tokyo-night&hide_border=true&area=true&height=250&custom_title=Activity" alt="activity" />
@@ -190,7 +186,7 @@ $ ls ./systems
 <div align="center">
 
 ```bash
-$ echo "building agents · shipping systems · owning delivery"
+$ echo "own the product · design the system · ship to production"
 ```
 
 <br/>
@@ -198,9 +194,10 @@ $ echo "building agents · shipping systems · owning delivery"
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.shahbazbaig.xyz)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mirza-shahbaz-ali-baig-3391b3248)
 [![Email](https://img.shields.io/badge/Email-Write-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mirzashahbazbaig724@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/shahbaz957/)
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=4000&pause=1000&color=8B949E&center=true&vCenter=true&width=720&lines=Architect+the+system.+Orchestrate+the+agents.+Ship+to+production." alt="footer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=4000&pause=1000&color=8B949E&center=true&vCenter=true&width=780&lines=Problem+%E2%86%92+Architecture+%E2%86%92+Product+%E2%86%92+Production.;Agents+where+they+earn+trust.+Systems+that+ship." alt="footer" />
 
 </div>
