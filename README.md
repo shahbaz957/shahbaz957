@@ -1,8 +1,3 @@
-<!--
-  Mirza Shahbaz Ali Baig — GitHub Profile README
-  Paste into: shahbaz957/shahbaz957/README.md
--->
-
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=920&lines=Mirza+Shahbaz+Ali+Baig;Product+Engineer+%C2%B7+Full%2DStack+%2B+Agentic+AI;Systems+that+Ship" alt="typing" />
@@ -159,10 +154,6 @@ $ ls ./systems
 | `agentic_products` | agents with harness, evals, and a human gate when stakes are high |
 | `production_ops` | shipped, monitored, cost-aware — laptop → prod |
 
-```bash
-# pin 3–4 repos: problem → constraint → architecture → run path
-```
-
 ---
 
 ## `./pulse`
@@ -178,7 +169,11 @@ $ ls ./systems
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahbaz957&theme=tokyo-night&hide_border=true&area=true&height=250&custom_title=Activity" alt="activity" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shahbaz957&theme=tokyonight" height="200" alt="profile-details" />
+</div>
+
+<div align="center">
+  <img src="https://ghchart.rshah.org/7aa2f7/shahbaz957" width="100%" alt="Contribution activity" />
 </div>
 
 ---
