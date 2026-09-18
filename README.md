@@ -35,7 +35,6 @@ Full-Stack Engineer · Agentic AI Systems
 
 $ focus
 problem → architecture → product → production
-ownership · isolation · queues · webhooks · multi-tenant
 
 $ cat ./ethos.txt
 Own the loop end-to-end: hear the real problem, design around
